@@ -1,10 +1,9 @@
-# `lower()` String Method
+# str.lower() Method
 
-**What it does:**  
-Converts all uppercase letters in a string to lowercase.
+**Description:**  
+Converts all characters in the string to lowercase.
 
-**Example:**  
+**Example Usage:**  
 ```python
-text = "HELLO WORLD"
-print(text.lower())  # "hello world"
-
+data = "PYTHON IS BEST PROGRAMMING LANGUAGE"
+print(data.lower())  # "python is best programming language"
